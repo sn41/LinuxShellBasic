@@ -10,11 +10,12 @@ content:
   - 9_pipe
   - 10_cut
   - 10_cut_test
-  - WriteScript
-  - arguments
-  - variables
-  - conditional_operators
-  - switch_case
-  - cycles
-  - functions
-  - standart_channels_1
+  - 11_write_script
+  - 12_arguments
+  - 13_variables
+  - 14_conditional_operators
+  - 15_test
+  - 16_switch_case
+  - 17_cycles
+  - 18_functions
+  - 19_other
