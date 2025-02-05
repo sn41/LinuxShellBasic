@@ -1,0 +1,9 @@
+type: marketplace
+title: LinuxShell
+language: English
+summary: Введение в администрирование Linux
+programming_language: Python
+environment: unittest
+content:
+  - basic
+yaml_version: 2

@@ -1,0 +1,20 @@
+content:
+  - 1_standard_channels
+  - 2_standard_channels_test
+  - 3_redirect
+  - 4_redirect_test
+  - 5_STDOUT
+  - 6_STDOUT_test
+  - 7_STDERR
+  - 8_STDERR_test
+  - 9_pipe
+  - 10_cut
+  - 10_cut_test
+  - WriteScript
+  - arguments
+  - variables
+  - conditional_operators
+  - switch_case
+  - cycles
+  - functions
+  - standart_channels_1

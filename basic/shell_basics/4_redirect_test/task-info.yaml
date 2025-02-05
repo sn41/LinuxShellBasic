@@ -1,0 +1,13 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Перенаправление потока ввода.
+    is_correct: false
+  - text: Перенаправление потока вывода.
+    is_correct: true
+files:
+  - name: main.py
+    visible: true
+  - name: __init__.py
+    visible: false
+local_check: true
