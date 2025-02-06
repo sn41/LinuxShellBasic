@@ -1,0 +1,5 @@
+content:
+  - STDOUT
+  - STDOUT_test
+  - STDERR
+  - STDERR_test
